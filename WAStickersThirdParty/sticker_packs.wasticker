@@ -3,101 +3,89 @@
     "android_play_store_link" : "",
     "sticker_packs" : [
     {
-        "identifier": "cuppyID",
-        "name": "Cuppy",
-        "publisher": "Jane Doe",
-        "tray_image_file" : "tray_Cuppy.png",
+        "identifier": "chop_elistrajnik",
+        "name": "Chop",
+        "publisher": "Eli Strajnik",
+        "tray_image_file" : "tray_chop.png",
         "publisher_website" : "",
-        "privacy_policy_website" : "",
-        "license_agreement_website" : "",
+        "privacy_policy_website" : "elistrajnik.me",
+        "license_agreement_website" : "elistrajnik.me",
         "stickers": [
         {
-            "image_file": "01_Cuppy_smile.png",
+            "image_file": "01_chop.png",
             "emojis": ["☕","🙂"]
         },
         {
-            "image_file": "02_Cuppy_lol.png",
+            "image_file": "02_chop.png",
             "emojis": ["😄","😀"]
         },
         {
-            "image_file": "03_Cuppy_rofl.png",
+            "image_file": "03_chop.png",
             "emojis": ["😆","😂"]
         },
         {
-            "image_file": "04_Cuppy_sad.png",
+            "image_file": "04_chop.png",
             "emojis": ["😃", "😍"]
         },
         {
-            "image_file": "05_Cuppy_cry.png",
+            "image_file": "05_chop.png",
             "emojis": ["😭","💧"]
         },
         {
-            "image_file": "06_Cuppy_love.png",
+            "image_file": "06_chop.png",
             "emojis": ["😍","♥"]
         },
         {
-            "image_file": "07_Cuppy_hate.png",
+            "image_file": "07_chop.png",
             "emojis": ["💔","👎"]
         },
         {
-            "image_file": "08_Cuppy_lovewithmug.png",
+            "image_file": "08_chop.png",
             "emojis": ["😍","💑"]
         },
         {
-            "image_file": "09_Cuppy_lovewithcookie.png",
+            "image_file": "09_chop.png",
             "emojis": ["😘","🍪"]
         },
         {
-            "image_file": "10_Cuppy_hmm.png",
+            "image_file": "10_chop.png",
             "emojis": ["🤔","😐"]
         },
         {
-            "image_file": "11_Cuppy_upset.png",
+            "image_file": "11_chop.png",
             "emojis": ["😱","😵"]
         },
         {
-            "image_file": "12_Cuppy_angry.png",
+            "image_file": "12_chop.png",
             "emojis": ["😡","😠"]
         },
         {
-            "image_file": "13_Cuppy_curious.png",
+            "image_file": "13_chop.png",
             "emojis": ["❓","🤔"]
         },
         {
-            "image_file": "14_Cuppy_weird.png",
+            "image_file": "14_chop.png",
             "emojis": ["🌈","😜"]
         },
         {
-            "image_file": "15_Cuppy_bluescreen.png",
+            "image_file": "15_chop.png",
             "emojis": ["💻","😩"]
         },
         {
-            "image_file": "16_Cuppy_angry.png",
+            "image_file": "16_chop.png",
             "emojis": ["😡","😤"]
         },
         {
-            "image_file": "17_Cuppy_tired.png",
+            "image_file": "17_chop.png",
             "emojis": ["😩","😨"]
         },
         {
-            "image_file": "18_Cuppy_workhard.png",
+            "image_file": "18_chop.png",
             "emojis": ["😔", "😨"]
         },
         {
-            "image_file": "19_Cuppy_shine.png",
+            "image_file": "19_chop.png",
             "emojis": ["🎉","✨"]
-        },
-        {
-            "image_file": "20_Cuppy_disgusting.png",
-            "emojis": ["🤮","👎"]
-        },
-        {
-            "image_file": "21_Cuppy_hi.png",
-            "emojis": ["🖐","🙋"]
-        },
-        {
-            "image_file": "22_Cuppy_bye.png",
-            "emojis": ["🖐","👋"]
         }]
     }]
 }
